@@ -1,0 +1,77 @@
+# Ignore thumbnails created by windows
+Thumbs.db
+
+# Ignore files build by xcode
+*.mode*v*
+*.pbxuser
+*.xcbkptlist
+*.xcscheme
+*.xcworkspacedata
+*.xcuserstate
+xcschememanagement.plist
+.DS_Store
+._.*
+xcuserdata/
+DerivedData/
+*.xccheckout
+
+# Ignore file build by Mono And Unity3D
+/Library/
+/Temp/
+/Obj/
+
+/.vs
+/*.DotSettings
+
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+*.fbm
+*.fbm.meta
+
+
+# 编译结果
+/Build/Bin
+
+# 插件
+#UnityVS
+/Assets/UnityVS
+/Assets/UnityVS.meta
+#uIntelliSense
+/Assets/uIntelliSense
+/Assets/uIntelliSense.meta
+#M Debug
+/Assets/Plugins/Editor/M
+/Assets/Plugins/Editor/M.meta
+/Assets/Plugins/M
+/Assets/Plugins/M.meta
+#ConsolePro
+/Assets/ConsolePro
+/Assets/ConsolePro.meta
+#BuildReport
+/Assets/BuildReport
+/Assets/BuildReport.meta
+
+# 更新
+/cache
+/update
+
+# Lua脚本及文本加密后的文件
+/Assets/_Client/Resources/Lua
+/Assets/_Client/Resources/Lua.meta
+
+ProjectSettings/ProjectVersion.txt
+Assets/GameObject.prefab
+Assets/GameObject.prefab.meta
+Assets/TestShow.cs
+Assets/TestShow.cs.meta
+Assets/ZMlcTest/
+Assets/ZMlcTest.meta
